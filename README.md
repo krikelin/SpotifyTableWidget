@@ -2,6 +2,8 @@
 <<<<<<< HEAD
 Table view for Spotify Apps
 
+![Table widget](http://img402.imageshack.us/img402/4105/widgetw.png)
+
 # Usage
 
 =======
