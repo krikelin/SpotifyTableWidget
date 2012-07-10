@@ -1,0 +1,33 @@
+.sp-header {
+	background: -webkit-linear-gradient(-90deg, #dddddd, #bbbbbb);
+	color:#333333 !important;
+}
+.sp-column:active {
+	background-image: url("../img/tabheader_press.png");
+}
+.sp-column {	
+	position: relative;
+	background-image: url("../img/tabheader.png");
+	font-family: "Tahoma";
+	font-weight: bold;
+	color:#000000;
+	text-shadow:0px 1px 0px #cccccc;
+	
+	border-top: 1px solid rgb(55, 55, 55);
+	border-right: 1px solid rgb(102, 102, 102);
+	
+	display: table;
+	table-layout: fixed;
+}
+.sp-list {
+	overflow: visible;
+}
+.sp-track-field-name {
+	width:223px;
+}.sp-track-field-artist {
+	width:115px;
+}
+
+.sp-track-field-popularity {
+	width:55px;
+}
